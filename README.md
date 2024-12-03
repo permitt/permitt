@@ -18,9 +18,9 @@
 Diving deep into the world of Large Language Models! From architecture exploration to deployment, I'm passionate about understanding and building with these fascinating models. Proud owner of an RTX 4090 that powers my local LLM experiments! 🚀
 
 ## 🔭 Current Focus
-- Exploring various LLM architectures (Transformers, MoE, Flash Attention)
+- Exploring various LLM architectures
 - Fine-tuning techniques (LoRA, QLoRA, PEFT)
-- Building with agentic frameworks (LangChain, AutoGPT)
+- Building with agentic frameworks (LangGraph, AutoGPT)
 - Optimizing inference for consumer GPUs
 
 ## 🛠️ Tech Stack
@@ -36,7 +36,7 @@ Diving deep into the world of Large Language Models! From architecture explorati
 ## 🌱 Learning Journey
 - Advanced techniques in Prompt Engineering
 - Multi-agent systems and autonomous AI
-- RAG (Retrieval-Augmented Generation) optimization
+- Knowledge Graphs for RAG (Retrieval-Augmented Generation) optimization
 - Model distillation and compression methods
 - Vector databases (QDrant, Pinecone)
 

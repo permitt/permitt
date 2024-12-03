@@ -41,9 +41,7 @@ Diving deep into the world of Large Language Models! From architecture explorati
 - Vector databases (QDrant, Pinecone)
 
 ## 💡 Featured Projects
-- 🧠 **Local LLM Playground**: Optimized inference setup for running open-source LLMs on RTX 4090
-- 🤖 **Custom Agent Framework**: Building autonomous agents with specific capabilities
-- 📚 **RAG System**: Enhanced retrieval system with custom embeddings
+TBA
 
 
 

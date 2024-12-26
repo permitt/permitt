@@ -5,13 +5,10 @@
     
 ### Connect & Follow
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perovicmitar)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/permitt_ai)
 [![](https://img.shields.io/badge/Hugging%20Face-FFE033?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/permitt)
 
 ### Content & Blogs
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@permitt_ai)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@permitt)
-[![](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@permitt)
 
 </div>
 

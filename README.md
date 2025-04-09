@@ -20,22 +20,6 @@ Diving deep into the world of Large Language Models! From architecture explorati
 - Building with agentic frameworks (LangGraph, AutoGPT)
 - Optimizing inference for consumer GPUs
 
-## 🛠️ Tech Stack
-- **Core**: Python, PyTorch, Transformers
-- **LLM Tools**: 
-  - 🤗 Hugging Face ecosystem
-  - 🦜 LangChain, LlamaIndex
-  - 🚀 vLLM, text-generation-inference
-- **Quantization**: bitsandbytes, GPTQ, AWQ
-- **Deployment**: FastAPI, Gradio, Docker
-- **Hardware**: NVIDIA RTX 4090 (precious ✨)
-
-## 🌱 Learning Journey
-- Advanced techniques in Prompt Engineering
-- Multi-agent systems and autonomous AI
-- Knowledge Graphs for RAG (Retrieval-Augmented Generation) optimization
-- Model distillation and compression methods
-- Vector databases (QDrant, Pinecone)
 
 ## 💡 Featured Projects
 TBA

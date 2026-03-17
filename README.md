@@ -12,14 +12,9 @@
 
 </div>
 
-Diving deep into the world of Large Language Models! From architecture exploration to deployment, I'm passionate about understanding and building with these fascinating models. Proud owner of an RTX 4090 that powers my local LLM experiments! 🚀
-
+TBD
 ## 🔭 Current Focus
-- Exploring various LLM architectures
-- Fine-tuning techniques (LoRA, QLoRA, PEFT)
-- Building with agentic frameworks (LangGraph, AutoGPT)
-- Optimizing inference for consumer GPUs
-
+- Training ModernBERT version for South Slavic languages
 
 ## 💡 Featured Projects
 TBA
